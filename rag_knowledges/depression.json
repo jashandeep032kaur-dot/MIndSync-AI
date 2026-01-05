@@ -1,0 +1,2002 @@
+[
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless every day",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore every day",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point every day",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty every day",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless every day",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope every day",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless every day",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair every day",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated every day",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better every day",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless all the time",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore all the time",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point all the time",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty all the time",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless all the time",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope all the time",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless all the time",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair all the time",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated all the time",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better all the time",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless and I am tired",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore and I am tired",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point and I am tired",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty and I am tired",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless and I am tired",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope and I am tired",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless and I am tired",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair and I am tired",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated and I am tired",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better and I am tired",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  },
+  {
+    "user_input": "I feel hopeless constantly",
+    "bot_response": "Hopelessness is heavy. You're not alone.",
+    "bot_followup": "What's making you feel this way?"
+  },
+  {
+    "user_input": "Nothing matters anymore constantly",
+    "bot_response": "When meaning fades, it's deeply painful.",
+    "bot_followup": "When did things start feeling meaningless?"
+  },
+  {
+    "user_input": "I see no point constantly",
+    "bot_response": "Losing purpose is devastating. Let's find small meaning.",
+    "bot_followup": "What used to give you purpose?"
+  },
+  {
+    "user_input": "I feel empty constantly",
+    "bot_response": "Emptiness is profound. I'm here with you.",
+    "bot_followup": "How long have you felt empty?"
+  },
+  {
+    "user_input": "Life feels meaningless constantly",
+    "bot_response": "Existential pain is real. You matter.",
+    "bot_followup": "What's changed recently?"
+  },
+  {
+    "user_input": "I have no hope constantly",
+    "bot_response": "Hopelessness feels endless. It isn't. Stay with me.",
+    "bot_followup": "What would hope look like?"
+  },
+  {
+    "user_input": "Everything is pointless constantly",
+    "bot_response": "That nihilistic feeling is crushing. You're valuable.",
+    "bot_followup": "What feels most pointless?"
+  },
+  {
+    "user_input": "I'm in despair constantly",
+    "bot_response": "Despair is overwhelming. Please don't give up.",
+    "bot_followup": "What's causing this despair?"
+  },
+  {
+    "user_input": "I feel defeated constantly",
+    "bot_response": "Feeling defeated is exhausting. Rest, don't quit.",
+    "bot_followup": "What battles are you fighting?"
+  },
+  {
+    "user_input": "Nothing will get better constantly",
+    "bot_response": "That permanence feeling is a depression symptom.",
+    "bot_followup": "Have you felt this way before?"
+  }
+]

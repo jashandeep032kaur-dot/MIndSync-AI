@@ -1,0 +1,4002 @@
+[
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything right now",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious right now",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared right now",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying right now",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something right now",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky right now",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out right now",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing right now",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed right now",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear right now",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything all the time",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious all the time",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared all the time",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying all the time",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something all the time",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky all the time",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out all the time",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing all the time",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed all the time",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear all the time",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything and I can't relax",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious and I can't relax",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared and I can't relax",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying and I can't relax",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something and I can't relax",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky and I can't relax",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out and I can't relax",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing and I can't relax",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed and I can't relax",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear and I can't relax",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I'm worried about everything constantly",
+    "bot_response": "Constant worry is exhausting. Let's unpack this.",
+    "bot_followup": "What worries you most?"
+  },
+  {
+    "user_input": "I feel anxious constantly",
+    "bot_response": "Anxiety is challenging. You're not alone.",
+    "bot_followup": "What triggers your anxiety?"
+  },
+  {
+    "user_input": "I'm scared constantly",
+    "bot_response": "Fear is a natural response. What's frightening you?",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "I can't stop worrying constantly",
+    "bot_response": "Racing worries are overwhelming. Let's slow down.",
+    "bot_followup": "What's the main worry?"
+  },
+  {
+    "user_input": "I'm nervous about something constantly",
+    "bot_response": "Nervousness shows you care. What's ahead?",
+    "bot_followup": "What's making you nervous?"
+  },
+  {
+    "user_input": "I feel panicky constantly",
+    "bot_response": "Panic is intense. Let's focus on breathing first.",
+    "bot_followup": "When did this panic start?"
+  },
+  {
+    "user_input": "I'm stressed out constantly",
+    "bot_response": "Stress takes a toll. What's stressing you?",
+    "bot_followup": "What's the main stressor?"
+  },
+  {
+    "user_input": "I'm afraid of failing constantly",
+    "bot_response": "Fear of failure is common. You're capable.",
+    "bot_followup": "What specifically worries you?"
+  },
+  {
+    "user_input": "I'm overwhelmed constantly",
+    "bot_response": "Feeling overwhelmed signals too much at once.",
+    "bot_followup": "What feels most overwhelming?"
+  },
+  {
+    "user_input": "I have constant fear constantly",
+    "bot_response": "Living with fear is exhausting. Let's explore it.",
+    "bot_followup": "What are you afraid of?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I am scared",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I am scared",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I am scared",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I am scared",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I am scared",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I am scared",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I am scared",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I am scared",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I am scared",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I am scared",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing and I feel anxious",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly and I feel anxious",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky and I feel anxious",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest and I feel anxious",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating and I feel anxious",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy and I feel anxious",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling and I feel anxious",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack and I feel anxious",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous and I feel anxious",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still and I feel anxious",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing help me",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly help me",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky help me",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest help me",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating help me",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy help me",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling help me",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack help me",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous help me",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still help me",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  },
+  {
+    "user_input": "My heart is racing what should I do",
+    "bot_response": "Physical anxiety symptoms are real. Breathe slowly.",
+    "bot_followup": "Are you in a safe place?"
+  },
+  {
+    "user_input": "I can't breathe properly what should I do",
+    "bot_response": "Breathing difficulty is scary. Try slow breaths.",
+    "bot_followup": "What triggered this?"
+  },
+  {
+    "user_input": "I feel shaky what should I do",
+    "bot_response": "Trembling is an anxiety response. You're okay.",
+    "bot_followup": "When did this start?"
+  },
+  {
+    "user_input": "I have a tight chest what should I do",
+    "bot_response": "Chest tightness is uncomfortable. Focus on breathing.",
+    "bot_followup": "How long have you felt this?"
+  },
+  {
+    "user_input": "I'm sweating what should I do",
+    "bot_response": "Sweating from anxiety is normal. You're safe.",
+    "bot_followup": "What's making you anxious?"
+  },
+  {
+    "user_input": "I feel dizzy what should I do",
+    "bot_response": "Dizziness can come from anxiety. Sit down if needed.",
+    "bot_followup": "Are you safe right now?"
+  },
+  {
+    "user_input": "My hands are trembling what should I do",
+    "bot_response": "Trembling hands show your body's stress response.",
+    "bot_followup": "What's causing stress?"
+  },
+  {
+    "user_input": "I have a panic attack what should I do",
+    "bot_response": "Panic attacks are intense but pass. Breathe with me.",
+    "bot_followup": "Is this your first one?"
+  },
+  {
+    "user_input": "I feel nauseous what should I do",
+    "bot_response": "Anxiety can affect your stomach. That's real.",
+    "bot_followup": "What's worrying you?"
+  },
+  {
+    "user_input": "I can't sit still what should I do",
+    "bot_response": "Restlessness is anxiety's physical form.",
+    "bot_followup": "What's on your mind?"
+  }
+]
