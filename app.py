@@ -256,7 +256,7 @@ except ImportError:
     DEEPFACE_AVAILABLE = False
 
 # ==================== Streamlit Page ====================
-st.set_page_config(page_title="MindMate AI ⭐", page_icon="🌈", layout="wide")
+st.set_page_config(page_title="MindSync-AI ⭐", page_icon="🌈", layout="wide")
 # ==================== Database / RAG ====================
 @st.cache_resource
 def init_db():
@@ -407,7 +407,7 @@ if "gender" not in st.session_state:
 
 # ==================== Authentication Page ====================
 def auth_page():
-    st.title("🧠 Welcome to MindMate AI")
+    st.title("🧠 Welcome to MindSync-AI")
     st.subheader("Login / Register")
     
     tab1, tab2 = st.tabs(["Login", "Register"])
