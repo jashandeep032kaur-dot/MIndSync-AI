@@ -22,11 +22,12 @@ A comprehensive AI-powered mental health support application that combines text/
 - **🎮 Interactive Tools**: Coping plans, resource library, and crisis intervention
 
 ### 🔬 Advanced Capabilities
-- **Enhanced RAG System**: Retrieval-Augmented Generation for contextual responses
+- **Enhanced RAG System**: Retrieval-Augmented Generation for contextual, emotion-specific responses
 - **Multi-Modal Emotion Detection**: Text + facial emotion analysis
 - **Crisis Detection**: Automatic identification and response to crisis keywords
 - **Personalized Interventions**: Tailored recommendations based on user data
 - **Progress Tracking**: Long-term mental health metrics visualization
+- **Interactive Wellness Tools**: Mood boards, gratitude jar, and worry box for creative emotional expression
 
 ## 🏗️ Architecture
 
@@ -55,7 +56,14 @@ MindSync-AI
 ├── Phase 3 Interventions
 │   ├── Coping Plans
 │   ├── Resource Library
+│   │   ├── Video Tutorials
+│   │   ├── Audio Sessions
+│   │   ├── CBT Worksheets
+│   │   └── Educational Articles
 │   └── Interactive Tools
+│       ├── Mood Board Creator
+│       ├── Gratitude Jar
+│       └── Worry Box
 └── Analytics Dashboard
     ├── Chat Analytics
     ├── Assessment Reports
@@ -129,11 +137,17 @@ brew services start mongodb-community  # macOS
 ```
 
 ### 6. Prepare RAG Knowledge Base
-Create a folder named `rag_knowledges` in the project root and add your mental health knowledge base files (text/PDF).
+The `rag_knowledges` folder contains emotion-specific knowledge bases:
 
 ```bash
-mkdir rag_knowledges
-# Add your knowledge base files here
+rag_knowledges/
+├── happiness.json      # Responses for joy/positive emotions
+├── sadness.json        # Responses for sadness/grief
+├── neutral.json        # General conversational responses
+├── anxiety.json        # Anxiety-specific guidance
+└── depression.json     # Depression-specific support
+
+# These files are pre-configured with the application
 ```
 
 ## 🎮 Usage
@@ -179,26 +193,42 @@ The application will open in your default browser at `http://localhost:8501`
 - Log daily moods with notes
 - View mood patterns over time
 
-**Goals & Exercises**:
-- Set wellness goals in "🎯 Goals"
-- Practice guided exercises in "📚 Exercises"
-- Track achievements in "🏆 Achievements"
+**Coping Plans**:
+- Navigate to "🎯 Coping Plans"
+- Generate personalized plans based on your emotional patterns
+- Get custom breathing exercises, daily schedules, and activities
+- Access emergency grounding techniques
+
+**Resource Library**:
+- Browse "📚 Resource Library"
+- Watch guided video tutorials on breathing, meditation, and mindfulness
+- Listen to audio sessions for sleep, anxiety relief, and motivation
+- Download CBT worksheets for thought records and behavioral activation
+- Read comprehensive articles on mental health topics
+
+**Interactive Tools**:
+- Create visual **Mood Boards** to express emotions through colors, words, and emojis
+- Build a **Gratitude Jar** by adding daily gratitude notes (organized by categories)
+- Use the **Worry Box** to write down worries, categorize them, and resolve them over time
+- Track patterns and gain insights from your creative expressions
 
 ## 📦 Project Structure
 
 ```
 mindsync-ai/
 ├── app.py                          # Main Streamlit application
-├── phase2_enhancements.py          # Mood journal, goals, exercises
-├── phase3_intervention.py          # Coping plans, resource library
-├── _virtual_chat.py                # Video chat module
-├── enhanced_rag_system.py          # RAG implementation
+├── phase2_enhancements.py          # Mood journal, goals, exercises, achievements
+├── phase3_intervention.py          # Coping plans, resource library, interactive tools
+├── _virtual_chat.py                # Video chat module with facial emotion detection
+├── enhanced_rag_system.py          # RAG implementation with emotion-aware retrieval
 ├── chatbot_responses.py            # Response generation logic
 ├── requirements.txt                # Python dependencies
 ├── rag_knowledges/                 # Knowledge base directory
-│   ├── mental_health_facts.txt
-│   ├── coping_strategies.pdf
-│   └── ...
+│   ├── happiness.json              # Joy/positive emotion responses
+│   ├── sadness.json                # Sadness/grief support
+│   ├── neutral.json                # General conversations
+│   ├── anxiety.json                # Anxiety-specific guidance
+│   └── depression.json             # Depression-specific support
 ├── README.md                       # This file
 └── LICENSE                         # MIT License
 ```
@@ -269,19 +299,96 @@ python -c "from chatbot_responses import detect_emotion_from_text; print(detect_
 }
 ```
 
-### Assessments Collection
+### Goals Collection
 ```json
 {
   "username": "string",
-  "condition": "string",
-  "score": "int",
-  "max_score": "int",
-  "percentage": "float",
+  "goal": "string",
+  "category": "string",
+  "progress": "int",
+  "created_at": "datetime"
+}
+```
+
+### Mood Boards Collection
+```json
+{
+  "username": "string",
+  "mood": "string",
+  "color": "string",
+  "words": "string",
+  "emojis": ["array"],
   "timestamp": "datetime"
 }
 ```
 
-## 🛡️ Safety Features
+### Gratitude Jar Collection
+```json
+{
+  "username": "string",
+  "text": "string",
+  "category": "string",
+  "timestamp": "datetime"
+}
+```
+
+### Worry Box Collection
+```json
+{
+  "username": "string",
+  "text": "string",
+  "intensity": "string",
+  "controllable": "string",
+  "status": "string (active/resolved)",
+  "created_at": "datetime",
+  "resolved_at": "datetime (optional)"
+}
+```
+
+### Coping Plans Collection
+```json
+{
+  "username": "string",
+  "emotion_pattern": "string",
+  "focus_areas": ["array"],
+  "intensity": "string",
+  "plan": "object",
+  "created_at": "datetime",
+  "active": "boolean"
+}
+```
+
+## 🎨 Interactive Wellness Tools
+
+MindSync-AI includes three creative tools for emotional expression and management:
+
+### 🎨 Mood Board Creator
+Create visual representations of your emotions:
+- Select colors that match your mood
+- Add descriptive words and phrases
+- Choose emojis to express feelings
+- View your mood board gallery over time
+- Track emotional patterns visually
+
+### 🙏 Gratitude Jar
+Build a collection of gratitude notes:
+- Write daily gratitude entries
+- Categorize by: People, Experience, Growth, Nature, etc.
+- Visualize your gratitude count
+- Filter and review past entries
+- Cultivate positive thinking habits
+
+### 📦 Worry Box
+Manage worries systematically:
+- Write down worries to externalize them
+- Rate intensity (Mild → Overwhelming)
+- Categorize as controllable or uncontrollable
+- Store worries to revisit later with perspective
+- Mark worries as resolved
+- View worry patterns and insights
+- Get actionable suggestions based on controllability
+
+These tools combine psychology principles with creative expression to support mental wellness in engaging, non-clinical ways.
 
 - **Crisis Detection**: Automatic identification of suicidal/self-harm language
 - **Emergency Resources**: Immediate display of crisis helplines
