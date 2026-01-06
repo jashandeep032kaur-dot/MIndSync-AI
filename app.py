@@ -23,7 +23,7 @@ import phase3_intervention as phase3
 from _virtual_chat import virtual_chat_mode
 from _virtual_chat import virtual_chat_mode, save_session_to_mongo
 from enhanced_rag_system import EnhancedRAGSystem, get_enhanced_response
-from chatbot_responses import get_response, detect_emotion_from_text
+from chatbot_reponses import get_response, detect_emotion_from_text
 # ==================== ENHANCED REMINDER SYSTEM ====================
 # Add this code to your main app (after your imports and before main())
 
