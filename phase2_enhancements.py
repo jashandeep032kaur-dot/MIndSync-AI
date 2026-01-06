@@ -4,18 +4,12 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from pymongo import MongoClient
 import calendar
 
-# -------------------- Database Connection --------------------
-@st.cache_resource
-def get_phase2_db():
-    """Connect to MongoDB for Phase 2 features"""
-    client = MongoClient("mongodb://localhost:27017/")
-    db = client["final_chatbot_talks"]
-    return db
+from db import get_db
 
-db = get_phase2_db()
+db = get_db()
+
 
 # Collections for Phase 2
 mood_journal_col = db["mood_journal"]
