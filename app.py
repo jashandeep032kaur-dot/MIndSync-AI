@@ -10,7 +10,6 @@ import threading
 import tempfile
 from PIL import Image
 import speech_recognition as sr
-from pymongo import MongoClient
 from sentence_transformers import SentenceTransformer
 from transformers import pipeline
 import time
@@ -29,7 +28,19 @@ from chatbot_responses import get_response, detect_emotion_from_text
 # Add this code to your main app (after your imports and before main())
 
 import datetime
-from pymongo import MongoClient
+import streamlit as st
+from db import get_db
+
+# ==================== Streamlit Page ====================
+st.set_page_config(
+    page_title="MindSync AI ⭐",
+    page_icon="🌈",
+    layout="wide"
+)
+
+# ==================== Database ====================
+db = get_db()
+
 
 # ==================== MENTAL HEALTH CONDITIONS ====================
 MENTAL_HEALTH_CONDITIONS = {
@@ -255,14 +266,7 @@ try:
 except ImportError:
     DEEPFACE_AVAILABLE = False
 
-# ==================== Streamlit Page ====================
-st.set_page_config(page_title="MindSync-AI ⭐", page_icon="🌈", layout="wide")
 # ==================== Database / RAG ====================
-@st.cache_resource
-def init_db():
-    client = MongoClient("mongodb://localhost:27017/")
-    db = client["final_chatbot_talks"]
-    return db
     
 @st.cache_resource
 def load_emotion_model():
@@ -272,7 +276,6 @@ def load_emotion_model():
 def init_enhanced_rag():
     return EnhancedRAGSystem(rag_directory="rag_knowledges")
 
-db = init_db()
 #embedder, index, rag_inputs, rag_outputs = load_rag()
 emotion_classifier = load_emotion_model()
 enhanced_rag= init_enhanced_rag()
@@ -335,31 +338,31 @@ def detect_text_emotion(text):
         return emotion, confidence
 
 
-def retrieve_answer(query, emotion=None):
-    """Enhanced RAG retrieval with emotion-aware responses and motivational content"""
+# def retrieve_answer(query, emotion=None):
+#     """Enhanced RAG retrieval with emotion-aware responses and motivational content"""
     
-    # First try RAG knowledge base
-    if rag_inputs and index is not None:
-        try:
-            q_emb = embedder.encode([query], convert_to_numpy=True)
-            distances, indices = index.search(q_emb, 3)  # Get top 3 matches
+#     # First try RAG knowledge base
+#     if rag_inputs and index is not None:
+#         try:
+#             q_emb = embedder.encode([query], convert_to_numpy=True)
+#             distances, indices = index.search(q_emb, 3)  # Get top 3 matches
             
-            # Get the best match
-            best_match_idx = indices[0][0]
-            best_distance = distances[0][0]
+#             # Get the best match
+#             best_match_idx = indices[0][0]
+#             best_distance = distances[0][0]
             
-            # If distance is reasonable (similar enough), use RAG response
-            if best_distance < 1.5:  # Threshold for similarity
-                base_response = rag_outputs[best_match_idx]
+#             # If distance is reasonable (similar enough), use RAG response
+#             if best_distance < 1.5:  # Threshold for similarity
+#                 base_response = rag_outputs[best_match_idx]
                 
-                # Enhance with emotion-specific motivation
-                enhanced_response = enhance_response_with_motivation(base_response, emotion, query)
-                return enhanced_response
-        except:
-            pass
+#                 # Enhance with emotion-specific motivation
+#                 enhanced_response = enhance_response_with_motivation(base_response, emotion, query)
+#                 return enhanced_response
+#         except:
+#             pass
     
-    # Fallback: Generate contextual response based on emotion and keywords
-    return generate_contextual_response(query, emotion)
+#     # Fallback: Generate contextual response based on emotion and keywords
+#     return generate_contextual_response(query, emotion)
 
 
 
@@ -407,7 +410,7 @@ if "gender" not in st.session_state:
 
 # ==================== Authentication Page ====================
 def auth_page():
-    st.title("🧠 Welcome to MindSync-AI")
+    st.title("🧠 Welcome to MindSync AI")
     st.subheader("Login / Register")
     
     tab1, tab2 = st.tabs(["Login", "Register"])
@@ -654,7 +657,13 @@ def chat_page():
     elif page == "💬 Chat":
         chat_interface()
     elif page == "🎥 Virtual Chat":
-        virtual_chat_mode(st.session_state.username,detect_text_emotion_func=detect_text_emotion)
+        #virtual_chat_mode(st.session_state.username,detect_text_emotion_func=detect_text_emotion)
+        virtual_chat_mode(
+            username=st.session_state.username,
+            detect_text_emotion_func=detect_text_emotion,
+            retrieve_answer_func=retrieve_answer  # Added this line
+        )
+
     elif page == "📊 Analytics":
         analytics_page()
     elif page == "ℹ️ Resources":
