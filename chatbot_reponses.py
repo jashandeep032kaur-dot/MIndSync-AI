@@ -1,6 +1,6 @@
 """
 chatbot_responses.py
-Complete conversational response library for MindMate AI chatbot
+Complete conversational response library for MindSync AI chatbot
 """
 
 # ========== RESPONSE LIBRARY ==========
