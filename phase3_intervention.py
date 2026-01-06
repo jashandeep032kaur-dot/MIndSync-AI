@@ -2,22 +2,18 @@ import streamlit as st
 import json, datetime
 import pandas as pd
 import numpy as np
-from pymongo import MongoClient
 import base64
 from io import BytesIO
 from PIL import Image, ImageDraw, ImageFont
 import random
-import plotly.express as px  # ADD THIS LINE
-import plotly.graph_objects as go 
-# -------------------- Database Connection --------------------
-@st.cache_resource
-def get_phase3_db():
-    """Connect to MongoDB for Phase 3 features"""
-    client = MongoClient("mongodb://localhost:27017/")
-    db = client["final_chatbot_talks"]
-    return db
+import plotly.express as px
+import plotly.graph_objects as go
 
-db = get_phase3_db()
+from db import get_db
+
+# -------------------- Database Connection --------------------
+db = get_db()
+
 
 # Collections for Phase 3
 coping_plans_col = db["coping_plans"]
